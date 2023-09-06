@@ -19,7 +19,7 @@ CICS (Introduction to Data Visualization) -Day 3
 https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing
 Issued: November 25th, 2022
 
-Oracle Cloud Data Management 2022 Foundations Certified Associate 
+Oracle Cloud Data Management 2022 Foundations Certified Associate <space>
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B 
 Issued: November 23th, 2022
 
