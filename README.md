@@ -1,6 +1,6 @@
 ## Greetings!
 
-## Name: Vince Ted Matthew D. Chua
+Name: Vince Ted Matthew D. Chua
 
 ## Education:
 BS Computer Science
@@ -19,14 +19,16 @@ CICS (Introduction to Data Visualization) -Day 3
 https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing
 Issued: November 25th, 2022
 
-Oracle Cloud Data Management 2022 Foundations Certified Associate https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B 
+Oracle Cloud Data Management 2022 Foundations Certified Associate 
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B 
 Issued: November 23th, 2022
 
 CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2 
 https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing
 Issued: November 18th, 2022
 
-Oracle Cloud Infrastructure 2022 Certified foundations Associate https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9 
+Oracle Cloud Infrastructure 2022 Certified foundations Associate 
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9 
 Issued: November 13th, 2022
 
 CICS (Tech 101: Basic Written Communication) -Day 1 
@@ -41,7 +43,8 @@ NSTP (National Service Training Program I/II) Certificate of Recognition
 https://drive.google.com/file/d/1HGjkPPCZpEXOQP1uSj4suPcy2xeHyzXp/view?usp=sharing
 Issued: June 25th, 2022
 
-Speech Arts Contest (Elimination Rounds: Interpretative Reading) https://drive.google.com/file/d/1-9i2WC_yc4-EpiAoeYfsuXcm7wgHbp7_/view?usp=sharing
+Speech Arts Contest (Elimination Rounds: Interpretative Reading) 
+https://drive.google.com/file/d/1-9i2WC_yc4-EpiAoeYfsuXcm7wgHbp7_/view?usp=sharing
 Issued: February 28th, 2022
 
 Speech Arts Contest (Preliminary Rounds: Manuscript Reading) 
