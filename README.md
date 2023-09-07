@@ -21,7 +21,9 @@ Dates: March 18, 2019-August 12, 2022
 ## Certification/s
 
 Business Analytics with Excel
+
 https://simpli-web.app.link/e/bZpUXV1BTCb
+
 Issued September 7th, 2023
 
 
