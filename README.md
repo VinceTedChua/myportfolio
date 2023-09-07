@@ -20,6 +20,11 @@ Dates: March 18, 2019-August 12, 2022
 
 ## Certification/s
 
+Business Analytics with Excel
+https://simpli-web.app.link/e/bZpUXV1BTCb
+Issued September 7th, 2023
+
+
 CICS (Introduction to Data Visualization) -Day 3
 
 https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing
